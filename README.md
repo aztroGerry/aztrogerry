@@ -1,9 +1,12 @@
 <h1 align="center">Hola 👋, My nombre es Gerardo en redes AztroGerry</h1>
+
 <h3 align="center">Aprendiz de las tecnologías ya que son de gran impacto para la vida en sociedad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aztrogerry&label=Profile%20views&color=0e75b6&style=flat" alt="aztrogerry" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aztrogerry" alt="aztrogerry" /></a> </p>
+
+<a name="learning-next"></a>
 
 - 🔭 Conocimiento de Dart **Dart**
 
