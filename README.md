@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, My nombre es Gerardo en redes AztroGerry</h1>
+___
 <h3 align="center">Aprendiz de las tecnologías ya que son de gran impacto para la vida en sociedad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aztrogerry&label=Profile%20views&color=0e75b6&style=flat" alt="aztrogerry" /> </p>
